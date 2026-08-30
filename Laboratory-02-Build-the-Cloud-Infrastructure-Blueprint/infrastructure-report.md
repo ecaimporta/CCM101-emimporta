@@ -1,37 +1,34 @@
-# Cloud Infrastructure Assessment Report
+# Infrastructure Report
 
 ## Operating System
-
-To be updated.
+Ubuntu 24.04.4 LTS (Noble Numbat)
 
 ## Kernel Version
-
-To be updated.
+6.8.0-138-generic
 
 ## CPU Model
-
-To be updated.
+Intel Xeon E312xx (Sandy Bridge, IBRS update)
 
 ## Number of CPU Cores
-
-To be updated.
+1 Core
 
 ## Total RAM
-
-To be updated.
+1.9 GiB
 
 ## Disk Capacity
-
-To be updated.
+19 GB
 
 ## Mounted File Systems
-
-To be updated.
+- `/` - /dev/vda1
+- `/boot` - /dev/vda16
+- `/boot/efi` - /dev/vda15
+- `/run` - tmpfs
+- `/dev/shm` - tmpfs
+- `/run/lock` - tmpfs
 
 ## Hostname
-
-To be updated.
+ubuntu
 
 ## IP Address
-
-To be updated.
+172.30.1.2
+172.17.0.1
