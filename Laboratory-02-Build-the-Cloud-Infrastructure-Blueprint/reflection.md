@@ -1,5 +1,4 @@
 # Mission Reflection
-# Mission Reflection
 
 ## What did you learn from investigating the Linux environment?
 
