@@ -85,3 +85,14 @@ AWS is suitable because the company needs infrastructure that can support global
 - Amazon EC2
 - Elastic Load Balancing
 - EC2 Auto Scaling
+
+# Cloud Provider Decision Matrix
+
+| Organization / Requirement | Recommended Provider | Reason |
+|---|---|---|
+| Startup Company | Google Cloud | Can support application development and future growth. |
+| Enterprise Organization | AWS | Provides a broad range of services for different enterprise workloads. |
+| Microsoft Environment | Microsoft Azure | Integrates well with existing Microsoft technologies. |
+| AI / Machine Learning | Google Cloud | Provides specialized AI and machine learning services. |
+| Kubernetes Deployment | Google Cloud | Provides Google Kubernetes Engine for managed Kubernetes workloads. |
+| Global Web Application | AWS | Provides global infrastructure and scalable cloud services. |
