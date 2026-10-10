@@ -2,11 +2,11 @@
 
 ## Memory (RAM)
 
-- Total RAM: [ilagay ang actual total mula sa `free -h`]
+- Total RAM: 1.9Gi
 
 ## Disk Storage
 
-- Total Root Filesystem Capacity: [ilagay ang actual Size mula sa `df -h /`]
+- Total Root Filesystem Capacity: 19G
 
 ## Importance of Disk Monitoring
 
