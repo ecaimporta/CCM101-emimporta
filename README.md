@@ -20,3 +20,4 @@ I will use this repository to keep and organize my laboratory activities through
 - Laboratory 04: Cloud-Native Engineer
 - Laboratory 05: Cloud Data Engineer
 - Laboratory 06: Cloud Deployment Engineer
+- Laboratory 07: Cloud Operations Engineer
