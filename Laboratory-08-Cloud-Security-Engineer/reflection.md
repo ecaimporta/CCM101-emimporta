@@ -1,0 +1,11 @@
+# Reflection — The Cloud Security Engineer
+
+This mission helped me understand why server security is important in cloud computing. A host-based firewall adds another layer of protection by controlling incoming and outgoing network connections on the server itself. Even if the network perimeter is breached, firewall rules can still restrict access to services that are not required. However, a firewall must be configured correctly and combined with other security practices.
+
+Managing open network ports is critical because every exposed service can become a possible entry point for unauthorized access. By allowing only the ports needed by the server, administrators can reduce the attack surface and limit unnecessary exposure. In this mission, the Nginx application used port 8080, while SSH was allowed for remote administration. These rules demonstrated how access can be limited to specific services instead of allowing all incoming traffic.
+
+Leaving a database port such as 3306 open to the public internet is dangerous because unauthorized users may attempt to exploit weak passwords, vulnerable database software, or configuration mistakes. A database should generally be accessible only to authorized application servers or trusted administrators. Strong authentication, restricted network access, updates, and monitoring are also important.
+
+Before this activity, I viewed server security mainly as protecting an application. I now understand that checking open ports and carefully configuring firewall rules are also essential. A running application may work correctly but still expose services that should not be publicly accessible. I also learned why allowing SSH before enabling the firewall is important for avoiding loss of remote administrative access.
+
+Completing eight missions makes my GitHub portfolio a record of my progress in cloud computing. Each mission documents practical commands, observations, screenshots, and lessons learned. This portfolio can help me review the skills I have practiced and identify areas where I need more experience. Overall, this mission strengthened my understanding of access control, network security, and responsible server administration.
